@@ -1,6 +1,6 @@
 <!-- Typing SVG Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+AZMIN+KACAK;Computer+Science+Student;Learning+Java%2C+JSP%2C+Web+Development;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Minzcom;Computer+Science+Student;Learning+Java%2C+JSP%2C+Web+Development;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </p>
 
 ---
@@ -40,13 +40,6 @@
 
 ---
 
-### 📈 Contribution Grid Animation (Dynamic)
-
-<p align="center">
-  <img src="https://github.com/minzcom/minzcom/raw/output/github-contribution-grid-snake.svg" alt="Contribution Grid Animation" />
-</p>
-
-> 📝 If the animation doesn't appear above, you can set it up by forking [Platane/snk](https://github.com/Platane/snk) and enabling GitHub Actions. I can guide you if you want it to update automatically.
 
 ---
 
