@@ -54,7 +54,7 @@
 ### 🌐 Let's Connect
 
 - 🔗 Website: [minazmin.my](https://minazmin.my)
-- 💼 LinkedIn: [linkedin.com/in/mintampan](https://www.linkedin.com/in/aezmine)
+- 💼 LinkedIn: [linkedin.com/in/aezmine](https://www.linkedin.com/in/aezmine)
 
 ---
 
