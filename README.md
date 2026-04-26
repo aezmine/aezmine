@@ -53,8 +53,8 @@
 
 ### 🌐 Let's Connect
 
-- 🔗 Website: [myazmin.my](https://myazmin.my)
-- 💼 LinkedIn: [linkedin.com/in/mintampan](https://www.linkedin.com/in/mintampan)
+- 🔗 Website: [minazmin.my](https://minazmin.my)
+- 💼 LinkedIn: [linkedin.com/in/mintampan](https://www.linkedin.com/in/aezmine)
 
 ---
 
